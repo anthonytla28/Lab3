@@ -1,0 +1,50 @@
+1,Backyard Boy,Claire Rosinkranz,https://open.spotify.com/track/0QpOqKz66ZxHNqj2PPHiFF
+2,3 Musketeers,NextYoungin,https://open.spotify.com/track/57Oi4yqY27uJzCyqFWIP5q
+3,Di Sepertiga Malam,Rey Mbayang,https://open.spotify.com/track/7p0buX4yhbZxCnq7Bou2Yq
+4,Heather,Conan Gray,https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA
+5,Mood (feat. Iann Dior),24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+6,ぎゅっと。,もさを。,https://open.spotify.com/track/6nqfKM9JvQIiuAuzWZFvGW
+7,Hawái,Maluma,https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp
+8,Overwhelmed,Royal & the Serpent,https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y
+9,Nimet,Didomido,https://open.spotify.com/track/3917xM4PvycBOYacEeJfXt
+10,Eyes Blue Like The Atlantic (feat. Subvrbs),Sista Prod,https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1
+11,Ashes,Stellar,https://open.spotify.com/track/2NeyJbL3ROKCjRkAjs77ya
+12,NUNU NANA,Jessi,https://open.spotify.com/track/4Bmk7JYOquhWmSMMW4WebM
+13,キンモクセイ,オレンジスパイニクラブ,https://open.spotify.com/track/4KyCrwLEWoGHJwobxc55oe
+14,DESSERT,HYO,https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf
+15,DDLG,ppcocaine,https://open.spotify.com/track/42dtq3bqOCzD0L2kITk4Dp
+16,Pain,Nessa Barrett,https://open.spotify.com/track/1vwTCUJxmGlTuClU5YLfJA
+17,Jerusalema (feat. Nomcebo Zikode),Master KG,https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi
+18,Mood Swings (feat. Lil Tjay),Pop Smoke,https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm
+19,Aku Yang Salah,Elmatu,https://open.spotify.com/track/07kS6GzBPkGUMmfgQUfMbE
+20,Such a Whore (Stellular Remix),Jvla,https://open.spotify.com/track/6A25J9As7towpxovYryAWr
+21,F2020,Avenue Beat,https://open.spotify.com/track/7opTGnWVJcm1e5mWWOldpg
+22,Mi Cuarto,Jerry Di,https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ
+23,Mamichula - con Nicki Nicole,Trueno,https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM
+24,So Voce,MC Rogerinho,https://open.spotify.com/track/59kRq8rb5uJCrSYYbGCk7o
+25,PJ,ppcocaine,https://open.spotify.com/track/1qxnmVbl8To9W9BcbTS8yC
+26,Head & Heart (feat. MNEK),Joel Corry,https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9
+27,Oh Juliana,Niack,https://open.spotify.com/track/4xWzZmX4K1yyrdtRfbUvjt
+28,Kau Lagi,Celine & Nadya,https://open.spotify.com/track/6RsvbZ6gFjRSOFonpf55mT
+29,Mr Loverman,Ricky Montgomery,https://open.spotify.com/track/594dAKfWYKj53Usd6DTbUs
+30,Electric Love,BØRNS,https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ
+31,Night Diver,三浦春馬,https://open.spotify.com/track/5hcWlcZE9vFMeaFaTjo1Zf
+32,Como Estrellas,LA YOUNG,https://open.spotify.com/track/3Iql4v0ISjuMqj7MNkuWJX
+33,Maria,Hwa Sa,https://open.spotify.com/track/2kqnQCChvRpDRAasIwc4Rh
+34,Me and You,Cold Hart,https://open.spotify.com/track/3f1ChZHm6v4KdUaEW5y5qd
+35,Wildfire,Nate Smith,https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN
+36,"Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie",Tainy,https://open.spotify.com/track/1pqnQ41XbfKjaFu6M0eGJp
+37,Heat Waves,Glass Animals,https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx
+38,UN DIA (ONE DAY) (Feat. Tainy),J Balvin,https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e
+39,Maafkan Aku #terlanjurmencinta,Tiara Andini,https://open.spotify.com/track/0ZoBl7pWhdjnj4eIe9I11o
+40,夜に駆ける,YOASOBI,https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js
+41,you broke me first,Tate McRae,https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR
+42,my future,Billie Eilish,https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C
+43,Kafamda kentsel dönüşümler,İkiye On Kala,https://open.spotify.com/track/5mfj5WeL3JYtjfExtOXkQ6
+44,La Curiosidad,Jay Wheeler,https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz
+45,Figurinha - Ao Vivo,Douglas & Vinicius,https://open.spotify.com/track/187Pge0WmJNoS73kaIORSE
+46,Still Don't Know My Name,Labrinth,https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV
+47,HOLO,LEE HI,https://open.spotify.com/track/7Acvy2L38SCipAeMPOK8Ro
+48,Ay DiOs Mío!,KAROL G,https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776
+49,NEVER MET! (feat. Glitch Gum),Cmten,https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n
+50,Stuck in the Middle,Tai Verdes,https://open.spotify.com/track/2HQPOVBAOU2EBTy1nBGRiW
